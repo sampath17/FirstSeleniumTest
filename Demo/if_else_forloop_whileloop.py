@@ -37,3 +37,29 @@ while i<num:
     sum=sum+1
     i=i+1
     print("Total is:", sum)
+    
+    
+    
+Output:
+5 is greater than 3!
+This is a Positive number
+Total is 1
+Total is 2
+Total is 3
+Total is 4
+Total is 5
+Apple
+Orange
+grapes
+No fruits left
+Total is: 1
+Total is: 2
+Total is: 3
+Total is: 4
+Total is: 5
+Total is: 6
+Total is: 7
+Total is: 8
+Total is: 9
+
+Process finished with exit code 0
