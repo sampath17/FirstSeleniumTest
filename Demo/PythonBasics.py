@@ -67,8 +67,8 @@ print(p)
 x = "Hello World"
 print(x[1])    #here [1] is index which refers to the character 'H'!
 print(len(x))   #To find the length of the string
-print (x.upper()) #To convert into upper or Lower
-print (x.strip()) #To strip the string to the correct format eg: "    Hello World" it will print "Hello WOrld"
+print (x.upper()) #To convert into upper or Lower case letters
+print (x.strip()) #To strip function is used to correct the format eg: "    Hello World" it will print "Hello World"
 
 
 print("Enter your Name: ")
