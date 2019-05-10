@@ -81,3 +81,29 @@ print("Wow, that's great "+x)
 
 
 # Copy this Directory path and you can run this code on your cmd(Terminal)as well.
+
+Output:
+Hello world, This is TechByteCoder!
+30
+Hello Sam Automation
+10 is greater than 5
+50
+<class 'int'>
+<class 'float'>
+<class 'complex'>
+3
+2
+1.0
+10
+e
+11
+HELLO WORLD
+Hello World
+Enter your Name: 
+Sampath
+Hello, Sampath
+How old are you? Sampath
+27
+Wow, that's great Sampath
+
+Process finished with exit code 0
